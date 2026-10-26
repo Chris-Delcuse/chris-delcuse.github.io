@@ -3,11 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
-  <!--Browser Options -->
-  <meta name="color-scheme" content="light dark">
-  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
   
   <!-- SEO -->
   <title>Chris Delcuse – Website</title>
@@ -129,7 +124,6 @@
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      background-color: var(--bg);
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
@@ -233,12 +227,6 @@
       box-shadow: var(--shadow);
       z-index: 10;
     }
-
-    @media (prefers-color-scheme: dark) {
-      body {
-    background-color: #f5f5f7;
-    color: #1d1d1f;
-      }
   </style>
 </head>
 <body>
@@ -275,20 +263,20 @@
   </div>
 
   <script>
-  //  function setTheme(theme) {
-  //    document.documentElement.setAttribute('data-theme', theme);
-  //    localStorage.setItem('theme', theme);
-  // }
+    function setTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+   }
 
-  //  function toggleTheme() {
-  //    const current = document.documentElement.getAttribute('data-theme') || 'light';
-  //    setTheme(current === 'light' ? 'dark' : 'light');
-  //  }
+    function toggleTheme() {
+      const current = document.documentElement.getAttribute('data-theme') || 'light';
+      setTheme(current === 'light' ? 'dark' : 'light');
+    }
 
     // Au chargement
-  //  const saved = localStorage.getItem('theme');
-  //  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  //  setTheme(saved || (prefersDark ? 'dark' : 'light'));
+    const saved = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    setTheme(saved || (prefersDark ? 'dark' : 'light'));
   </script>
 </body>
   </html>
