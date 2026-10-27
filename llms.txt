@@ -1,0 +1,16 @@
+# Chris Delcuse
+
+> R&D Engineer in Industry  
+> Specialized in Electrotechnics and Automation  
+> Content Creator • Guitar Player • Rally Car Enthusiast  
+> Graduate of Lycée Auguste Béhal
+
+## Summary
+French R&D Engineer working in industry, specialized in electrotechnics, industrial automation, PLC, development and CNC machine manufacturing.
+
+## Main Page
+- [Official Website](https://chris-delcuse.github.io/): Personal website presenting Chris Delcuse’s professional profile, skills and interests.
+
+## Optional Links
+- [GitHub](https://github.com/Chris-Delcuse): Source code, projects and technical repositories
+- [Instagram](https://instagram.com/chris_delcuse): Content creation
