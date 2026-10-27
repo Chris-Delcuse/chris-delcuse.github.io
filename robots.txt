@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chris-delcuse.github.io/sitemap.xml
