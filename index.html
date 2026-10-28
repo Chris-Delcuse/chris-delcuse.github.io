@@ -207,7 +207,7 @@
   </style>
 </head>
 <body>
- <!-- <button class="theme-btn" onclick="toggleTheme()" title="Changer de thème">🌓</button> -->
+ <button class="theme-btn" onclick="toggleTheme()" title="Changer de thème">🌓</button>
 
   <div class="card">
     <img src="https://avatars.githubusercontent.com/u/264176473?v=4" 
@@ -244,12 +244,12 @@
       document.documentElement.setAttribute('data-theme', theme);
       localStorage.setItem('theme', theme);
    }
-//
-//    function toggleTheme() {
-//      const current = document.documentElement.getAttribute('data-theme') || 'light';
-//      setTheme(current === 'light' ? 'dark' : 'light');
-//    }
-//
+
+    function toggleTheme() {
+      const current = document.documentElement.getAttribute('data-theme') || 'light';
+      setTheme(current === 'light' ? 'dark' : 'light');
+    }
+
     // Au chargement
     const saved = localStorage.getItem('theme'); 
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
