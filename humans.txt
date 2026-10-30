@@ -1,8 +1,0 @@
-/* TEAM */
-Creator: Chris Delcuse
-Role: R&D Engineer - Electrotechnics & Automation
-Site: https://chris-delcuse.github.io
-Location: France
-
-/* THANKS */
-GitHub Pages
