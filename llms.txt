@@ -6,14 +6,14 @@
 > Graduate of Auguste Béhal High School
 
 ## Summary
-French R&D Engineer working in industry, specialized in electrotechnics, industrial automation, PLC, development and CNC machine manufacturing.
+R&D Engineer working in industry, specialized in electrotechnics, industrial automation, PLC, development and CNC machine manufacturing.
 
 ## Main Page
-- [Official Website](https://chris-delcuse.github.io/): Personal website presenting Chris Delcuse’s professional profile, skills and interests.
+- [Official Website](https://chris-delcuse.github.io/): Website presenting Chris Delcuse’s professional profile, skills and interests.
 
 ## Optional Links
 - [GitHub](https://github.com/Chris-Delcuse): Source code, projects and technical repositories
-- [Instagram](https://instagram.com/chris_delcuse): Content creation, photos, video edit, personnal profile
-- [Twitter/X](https://x.com/chris_delcuse): Content creation Lab, articles, photo, AI creation
-- [YouTube](https://youtube.com/@chris-delcuse): Content creation, video edit
-- [Linkedin](https://linkedin.com/in/chris-delcuse): Profile Pro
+- [Instagram](https://instagram.com/chris_delcuse): Personnal Profile, Content creation, photos, Video Edits
+- [Twitter/X](https://x.com/chris_delcuse): Content creation Lab, Articles, Photos, AI creation
+- [YouTube](https://youtube.com/@chris-delcuse): Content creation, Video Edits
+- [Linkedin](https://linkedin.com/in/chris-delcuse): Professional Profile
