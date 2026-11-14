@@ -76,8 +76,8 @@
     }
 
     .links {
-      display: flex;
-      flex-wrap: wrap;
+      display: grid;
+      /* flex-wrap: wrap; */
       gap: 10px;
       justify-content: center;
       margin: 24px 0;
