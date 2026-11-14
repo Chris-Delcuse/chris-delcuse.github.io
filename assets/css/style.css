@@ -77,9 +77,7 @@
 
     .links {
       display: grid;
-      /* flex-wrap: wrap; */
-      grid-template-columns: repeat(3, 1fr);
-      grid-template-rows: repeat(2, 1fr);
+      flex-wrap: wrap;
       gap: 10px;
       justify-content: center;
       margin: 24px 0;
