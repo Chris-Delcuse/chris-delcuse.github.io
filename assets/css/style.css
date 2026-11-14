@@ -40,8 +40,6 @@
       flex-direction: column;
       justify-content: safe center;
       align-items: center;
-      /* padding: 20px;*/
-      /* Padding + safe areas (encoche / home indicator) */
       padding: max(20px, env(safe-area-inset-top)) 
                max(20px, env(safe-area-inset-right)) 
                max(20px, env(safe-area-inset-bottom)) 
@@ -90,8 +88,6 @@
     }
 
     .links {
-      /* display: flex;
-      flex-wrap: wrap; */
       display: grid;
       grid-template-columns: repeat(3, 1fr);  
       gap: 8px;
