@@ -25,9 +25,9 @@
     }
 
     html {
-    /* Évite le décalage de centrage quand la scrollbar apparaît */
+    /* Évite le decentrage quand la scrollbar apparaît */
       scrollbar-gutter: stable;
-    /* Empêche le rebond élastique sur iOS/Android */
+    /* Empêche le reload par scroll bas*/
       overscroll-behavior: none;
     }
 
@@ -130,8 +130,6 @@
 
     .theme-btn {
       position: fixed;
-      /* top: 20px;
-      right: 20px; */
       top: max(16px, env(safe-area-inset-top));
       right: max(16px, env(safe-area-inset-right));
       background: var(--card-bg);
