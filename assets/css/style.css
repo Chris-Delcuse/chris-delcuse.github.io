@@ -93,11 +93,11 @@
       /* display: flex;
       flex-wrap: wrap; */
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      grid-template-rows: repeat(2, 1fr);   
-      gap: 10px;
+      grid-template-columns: repeat(3, 1fr);  
+      gap: 8px;
       justify-content: center;
       margin: 24px 0;
+      width: 100%;
     }
 
     .link {
@@ -105,10 +105,14 @@
       color: var(--text);
       background: var(--bg);
       border: 1px solid var(--border);
-      padding: 8px 16px;
+      padding: 8px 6px;
       border-radius: 50px;
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       transition: all 0.2s;
+      text-align: center;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     .link:hover {
