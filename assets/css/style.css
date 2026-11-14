@@ -24,6 +24,13 @@
       box-sizing: border-box;
     }
 
+    html {
+    /* Évite le décalage de centrage quand la scrollbar apparaît */
+      scrollbar-gutter: stable;
+    /* Empêche le rebond élastique sur iOS/Android */
+      overscroll-behavior: none;
+    }
+
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       background: var(--bg);
@@ -32,7 +39,12 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      padding: 20px;
+      /* padding: 20px;*/
+      /* Padding + safe areas (encoche / home indicator) */
+      padding: max(20px, env(safe-area-inset-top)) 
+               max(20px, env(safe-area-inset-right)) 
+               max(20px, env(safe-area-inset-bottom)) 
+               max(20px, env(safe-area-inset-left));
       transition: background 0.3s, color 0.3s;
     }
 
@@ -116,8 +128,10 @@
 
     .theme-btn {
       position: fixed;
-      top: 20px;
-      right: 20px;
+      /* top: 20px;
+      right: 20px; */
+      top: max(20px, env(safe-area-inset-top));
+      right: max(20px, env(safe-area-inset-right));
       background: var(--card-bg);
       border: 1px solid var(--border);
       color: var(--text);
@@ -131,4 +145,13 @@
       justify-content: center;
       box-shadow: var(--shadow);
       z-index: 10;
+    }
+
+    /* ===== Mode Web App (ajouté à l’écran d’accueil) ===== */
+    @media (display-mode: standalone), (display-mode: fullscreen) {
+      body {
+    /* En mode app on peut forcer une hauteur fixe si tu veux vraiment 0 scroll */
+    height: 100dvh;
+    overflow: hidden; /* optionnel : empêche complètement le scroll */
+      }
     }
