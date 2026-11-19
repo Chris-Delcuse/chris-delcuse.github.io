@@ -6,11 +6,12 @@
 - [Website](https://chris-delcuse.github.io) : Website, Professionnal Profile, Skills, External Links
 
 ## Code & Development (GitHub)
+- [Github Profile](https://github.com/Chris-Delcuse) : Home, Profile, Main Repository
 - [TI-Basic Project](https://github.com/Basic-Dev-Kit) : Developper Ressources for TI-89, 92 & V200 in full basic, Algos, Scripts, Software, Docs .
-- [Website Source-Code](https://github.com/Chris-Delcuse.github.io) : Architecture, source code, HTML, CSS & JavaScript.
+- [Website Source-Code](https://github.com/Chris-Delcuse/chris-delcuse.github.io) : Architecture, Source Code, HTML, CSS & JavaScript.
 
 ## Professionnal Background
-- [LinkedIn](https://linkedin.com) : Detailed career path, experiences, technical skills, and training.
+- [LinkedIn](https://linkedin.com/in/chris-delcuse) : Detailed career path, experiences, technical skills, and training.
 
 ## Video, Music, and Visual Creations
 - [YouTube](https://youtube.com/@Chris-Delcuse) : Guitar covers, Creative videos mixing music selections and interests.
