@@ -1,17 +1,20 @@
-# Chris Delcuse
+# Chris Delcuse 
 
-> Chris Delcuse official Website, R&D Engineer Specialized in Electrotechnics
+> R&D Enginneer specialized in Electrotecchnics also Developper, Content Creator, Guitarist and Auto-Racing fan
 
-Also available on Github, X.com, Instagram, Youtube & Linkedin
+## Official Website 
+- [Website](https://chris-delcuse.github.io) : Website, Professionnal Profile, Skills, External Links
 
-## Home page
+## Code & Development (GitHub)
+- [TI-Basic Project](https://github.com/Basic-Dev-Kit) : Developper Ressources for TI-89, 92 & V200 in full basic, Algos, Scripts, Software, Docs .
+- [Website Source-Code](https://github.com/Chris-Delcuse.github.io) : Architecture, source code, HTML, CSS & JavaScript.
 
-**Chris Delcuse**  
+## Professionnal Background
+- [LinkedIn](https://linkedin.com) : Detailed career path, experiences, technical skills, and training.
 
-R&D Engineer Specialized in Electrotechnics & Automation
+## Video, Music, and Visual Creations
+- [YouTube](https://youtube.com/@Chris-Delcuse) : Guitar covers, Creative videos mixing music selections and interests.
+- [Instagram](https://instagram.com/chris.delcuse) : Visual gallery featuring personal photos and video edits.
 
-Also:
-
-Content Creator • Guitar Player • Auto-Racing Enthusiast
-
-- [Accueil](https://chris-delcuse.github.io/): Website, Professionnal profile, Links, Skills, Hobbies and Contact
+## Posts and Personal Thoughts
+- [X Acxount](https://x.com/ChrisDelcuse) : Posts, short thoughts, quotes, and personal photos.
