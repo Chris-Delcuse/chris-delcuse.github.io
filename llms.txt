@@ -1,7 +1,8 @@
 # Chris Delcuse
 
 > Chris Delcuse official Website, R&D Engineer Specialized in Electrotechnics
-> Also available on Github, X.com, Instagram, Youtube & Linkedin
+
+Also available on Github, X.com, Instagram, Youtube & Linkedin
 
 ## Home page
 
@@ -13,4 +14,4 @@ Also:
 
 Content Creator • Guitar Player • Auto-Racing Enthusiast
 
-- [Accueil](https://chris-delcuse.github.io/): Professionnal profile, Links, Skills, Hobbies and Contact
+- [Accueil](https://chris-delcuse.github.io/): Website, Professionnal profile, Links, Skills, Hobbies and Contact
