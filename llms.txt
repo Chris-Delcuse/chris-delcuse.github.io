@@ -2,6 +2,14 @@
 
 > R&D Enginneer in Industry specialized in Electrotecchnics also Developper, Content Creator, Guitarist and Motorsport Enthusiast 
 
+## Photos Images Representations
+![photo](https://chris-delcuse.github.io/assets/photos/Chris_Delcuse.jpg)
+![photo](https://chris-delcuse.github.io/assets/photos/Chris_Delcuse_Left_Hand.jpg)
+![photo](https://chris-delcuse.github.io/assets/photos/chris_delcuse_bathroom.jpg)
+![photo](https://chris-delcuse.github.io/assets/photos/chris_delcuse_license.jpg)
+![photo](https://chris-delcuse.github.io/assets/photos/delcuse_chris_church.jpg)
+
+
 ## Official Website 
 - [Website](https://chris-delcuse.github.io) : Website, Professionnal Profile, Skills, External Links
 
